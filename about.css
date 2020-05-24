@@ -1,0 +1,45 @@
+body .btn-youtube, body .btn-courses {
+  display: inline-block;
+  padding: 5px 25px;
+  text-align: center;
+  border-radius: 4px;
+  color: #fff;
+  border: none;
+  font-size: 20px;
+  background-color: #e74292;
+}
+
+html {
+  height: 100vh;
+  background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 45, 75, 0)), to(rgba(90, 3, 2, 0.5))), url("images/cover.jpg");
+  background-image: linear-gradient(to bottom, rgba(0, 45, 75, 0), rgba(90, 3, 2, 0.5)), url("images/cover.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+body h1 {
+  color: #f3b431;
+  text-align: center;
+  margin-top: 5px;
+  font-size: 3rem;
+}
+
+body p {
+  color: #eaf0f1;
+  text-align: center;
+  font-size: 2rem;
+}
+
+body .container {
+  text-align: center;
+}
+
+body .btn-youtube {
+  background-color: #ae1c1c;
+}
+
+body .btn-courses {
+  background-color: #bf2d2d;
+}
+/*# sourceMappingURL=about.css.map */
